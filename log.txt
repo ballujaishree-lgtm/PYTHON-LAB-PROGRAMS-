@@ -1,0 +1,5 @@
+Application started successfully.
+User logged in.
+Database connected.
+Warning: Low memory.
+Application closed.

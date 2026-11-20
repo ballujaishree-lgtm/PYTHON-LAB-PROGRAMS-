@@ -1,0 +1,23 @@
+
+[
+    {
+        "level": "INFO",
+        "message": "Application started successfully"
+    },
+    {
+        "level": "ERROR",
+        "message": "Database connection failed"
+    },
+    {
+        "level": "WARNING",
+        "message": "Low memory detected"
+    },
+    {
+        "level": "INFO",
+        "message": "User logged in"
+    },
+    {
+        "level": "ERROR",
+        "message": "File not found"
+    }
+]
